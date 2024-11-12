@@ -1,8 +1,8 @@
 {
-  "name": "chitchatter",
-  "version": "0.0.0",
-  "homepage": "https://chitchatter.im/",
-  "author": "Jeremy Kahn <me@jeremyckahn.com>",
+  "name": "ATFChatter",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Ulmann715.github.io/ATFChatter",
+  "author": "Ostap Bender <ABC@example.com>",
   "license": "GPL-2.0-or-later",
   "type": "module",
   "dependencies": {
